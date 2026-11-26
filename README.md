@@ -5,15 +5,6 @@
 Ask questions about your PDFs and get answers with page-level sources. If the answer isn't in the documents, it says so instead of guessing.
 
 
-
-!\[Answer with sources](screenshots/answer.png)
-
-!\[Multi-page answer](screenshots/multi.png)
-
-!\[Unknown question](screenshots/unknown.png)
-
-
-
 \## How it works
 
 1\. PDFs are split into overlapping chunks
